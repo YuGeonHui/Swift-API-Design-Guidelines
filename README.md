@@ -1,5 +1,5 @@
 # Swift-API-Design-Guidelines
-읽기 좋은 코드 작성하기 위한 Repon 입니다.
+읽기 좋은 코드 작성하기 위한 Repo 입니다.
 
 - 아래의 항목으로 구성되어 있습니다.
 
